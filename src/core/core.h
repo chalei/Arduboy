@@ -62,7 +62,7 @@
 #define B_BUTTON _BV(2)
 
 #define PIN_SPEAKER_1 5
-#define PIN_SPEAKER_2 13
+#define PIN_SPEAKER_2 9
 
 #define PIN_SPEAKER_1_PORT &PORTC
 #define PIN_SPEAKER_2_PORT &PORTC
